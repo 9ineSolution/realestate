@@ -164,7 +164,7 @@ export default function Property1() {
 								</Link>
 								<div className="content">
 									<div className="archive-top">
-										<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">Casa Lomas de Machalí Machas</Link></div>
+										<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">The Erawan Condo </Link></div>
 										<div className="desc"><i className="icon icon-mapPin" /><p>145 Brooklyn Ave, Califonia, New York</p> </div>
 										<ul className="meta-list">
 											<li className="item">

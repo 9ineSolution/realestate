@@ -153,7 +153,7 @@ export default function SidebarList() {
 													<img src="/images/home/house-sm-3.jpg" alt="img" />
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">Casa Lomas de Mach...</Link></div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">The Erawan Condo Mach...</Link></div>
 													<ul className="meta-list">
 														<li className="item">
 															<span>Bed:</span>
@@ -228,7 +228,7 @@ export default function SidebarList() {
 													<img src="/images/home/house-sm-4.jpg" alt="img" />
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">de Machalí Machas...</Link></div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">de ...</Link></div>
 													<ul className="meta-list">
 														<li className="item">
 															<span>Bed:</span>
@@ -285,8 +285,8 @@ export default function SidebarList() {
 															</div>
 														</Link>
 														<div className="content">
-															<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link"> Casa Lomas de Machalí Machas</Link></div>
-															<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+															<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link"> The Erawan Condo </Link></div>
+															<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 															<ul className="meta-list">
 																<li className="item">
 																	<i className="icon icon-bed" />
@@ -346,8 +346,8 @@ export default function SidebarList() {
 															</div>
 														</Link>
 														<div className="content">
-															<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">Villa del Mar Retreat, Malibu</Link></div>
-															<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>72 Sunset Avenue, Los Angeles, California</p> </div>
+															<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">METROLUXE</Link></div>
+															<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>419 ซ.อินทามระ 47 ถ.รัชดาภิเษก แขวงดินแดง เขตดินแดง กรุงเทพฯes, California</p> </div>
 															<ul className="meta-list">
 																<li className="item">
 																	<i className="icon icon-bed" />
@@ -408,7 +408,7 @@ export default function SidebarList() {
 														</Link>
 														<div className="content">
 															<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">Rancho Vista Verde, Santa Barbara</Link></div>
-															<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+															<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 															<ul className="meta-list">
 																<li className="item">
 																	<i className="icon icon-bed" />
@@ -782,7 +782,7 @@ export default function SidebarList() {
 													</Link>
 													<div className="content">
 														<div className="archive-top">
-															<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">Casa Lomas de Machalí Machas</Link></div>
+															<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">The Erawan Condo </Link></div>
 															<div className="desc"><i className="icon icon-mapPin" /><p>145 Brooklyn Ave, Califonia, New York</p> </div>
 															<ul className="meta-list">
 																<li className="item">
@@ -1022,7 +1022,7 @@ export default function SidebarList() {
 													</Link>
 													<div className="content">
 														<div className="archive-top">
-															<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">Casa Lomas de Machalí Machas</Link></div>
+															<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">The Erawan Condo </Link></div>
 															<div className="desc"><i className="icon icon-mapPin" /><p>145 Brooklyn Ave, Califonia, New York</p> </div>
 															<ul className="meta-list">
 																<li className="item">

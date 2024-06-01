@@ -22,7 +22,7 @@ export default function Recommended1() {
 								<a className={isTab == 1 ? "nav-link-item active" : "nav-link-item"} data-bs-toggle="tab">View All</a>
 							</li>
 							<li className="nav-tab-item" onClick={() => handleTab(2)}>
-								<a className={isTab == 2 ? "nav-link-item active" : "nav-link-item"} data-bs-toggle="tab">Apartment</a>
+								<a className={isTab == 2 ? "nav-link-item active" : "nav-link-item"} data-bs-toggle="tab">Condo</a>
 							</li>
 							<li className="nav-tab-item" onClick={() => handleTab(3)}>
 								<a className={isTab == 3 ? "nav-link-item active" : "nav-link-item"} data-bs-toggle="tab">Villa</a>
@@ -69,8 +69,8 @@ export default function Recommended1() {
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link"> Casa Lomas de Machalí Machas</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link"> The Erawan Condo </Link></div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -126,12 +126,12 @@ export default function Recommended1() {
 														</ul>
 													</div>
 													<div className="bottom">
-														<span className="flag-tag style-2">Apartment</span>
+														<span className="flag-tag style-2">Condo</span>
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">Villa del Mar Retreat, Malibu</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>72 Sunset Avenue, Los Angeles, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">METROLUXE</Link></div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>419 ซ.อินทามระ 47 ถ.รัชดาภิเษก แขวงดินแดง เขตดินแดง กรุงเทพฯes, California</p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -192,7 +192,7 @@ export default function Recommended1() {
 												</Link>
 												<div className="content">
 													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v2" className="link">Rancho Vista Verde, Santa Barbara</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -442,8 +442,8 @@ export default function Recommended1() {
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link"> Casa Lomas de Machalí Machas</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link"> The Erawan Condo </Link></div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -503,8 +503,8 @@ export default function Recommended1() {
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">Villa del Mar Retreat, Malibu</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>72 Sunset Avenue, Los Angeles, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">METROLUXE</Link></div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>419 ซ.อินทามระ 47 ถ.รัชดาภิเษก แขวงดินแดง เขตดินแดง กรุงเทพฯes, California</p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -565,7 +565,7 @@ export default function Recommended1() {
 												</Link>
 												<div className="content">
 													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v2" className="link">Rancho Vista Verde, Santa Barbara</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -815,8 +815,8 @@ export default function Recommended1() {
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v2" className="link"> Casa Lomas de Machalí Machas</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v2" className="link"> The Erawan Condo </Link></div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -876,8 +876,8 @@ export default function Recommended1() {
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v3" className="link">Villa del Mar Retreat, Malibu</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>72 Sunset Avenue, Los Angeles, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v3" className="link">METROLUXE</Link></div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>419 ซ.อินทามระ 47 ถ.รัชดาภิเษก แขวงดินแดง เขตดินแดง กรุงเทพฯes, California</p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -938,7 +938,7 @@ export default function Recommended1() {
 												</Link>
 												<div className="content">
 													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v2" className="link">Rancho Vista Verde, Santa Barbara</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -1188,8 +1188,8 @@ export default function Recommended1() {
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link"> Casa Lomas de Machalí Machas</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link"> The Erawan Condo </Link></div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -1249,8 +1249,8 @@ export default function Recommended1() {
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">Villa del Mar Retreat, Malibu</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>72 Sunset Avenue, Los Angeles, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">METROLUXE</Link></div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>419 ซ.อินทามระ 47 ถ.รัชดาภิเษก แขวงดินแดง เขตดินแดง กรุงเทพฯes, California</p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -1311,7 +1311,7 @@ export default function Recommended1() {
 												</Link>
 												<div className="content">
 													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v2" className="link">Rancho Vista Verde, Santa Barbara</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -1561,8 +1561,8 @@ export default function Recommended1() {
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v2" className="link"> Casa Lomas de Machalí Machas</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v2" className="link"> The Erawan Condo </Link></div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -1622,8 +1622,8 @@ export default function Recommended1() {
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v3" className="link">Villa del Mar Retreat, Malibu</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>72 Sunset Avenue, Los Angeles, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v3" className="link">METROLUXE</Link></div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>419 ซ.อินทามระ 47 ถ.รัชดาภิเษก แขวงดินแดง เขตดินแดง กรุงเทพฯes, California</p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -1684,7 +1684,7 @@ export default function Recommended1() {
 												</Link>
 												<div className="content">
 													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v4" className="link">Rancho Vista Verde, Santa Barbara</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -1934,8 +1934,8 @@ export default function Recommended1() {
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link"> Casa Lomas de Machalí Machas</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link"> The Erawan Condo </Link></div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -1995,8 +1995,8 @@ export default function Recommended1() {
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">Villa del Mar Retreat, Malibu</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>72 Sunset Avenue, Los Angeles, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">METROLUXE</Link></div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>419 ซ.อินทามระ 47 ถ.รัชดาภิเษก แขวงดินแดง เขตดินแดง กรุงเทพฯes, California</p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />
@@ -2057,7 +2057,7 @@ export default function Recommended1() {
 												</Link>
 												<div className="content">
 													<div className="h7 text-capitalize fw-7"><Link href="/property-details-v2" className="link">Rancho Vista Verde, Santa Barbara</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />

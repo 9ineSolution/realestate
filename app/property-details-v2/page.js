@@ -865,7 +865,7 @@ export default function PropertyDetailsV2() {
 														<img src="/images/home/house-sm-3.jpg" alt="img" />
 													</Link>
 													<div className="content">
-														<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">Casa Lomas de Mach...</Link></div>
+														<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">The Erawan Condo Mach...</Link></div>
 														<ul className="meta-list">
 															<li className="item">
 																<span>Bed:</span>
@@ -940,7 +940,7 @@ export default function PropertyDetailsV2() {
 														<img src="/images/home/house-sm-4.jpg" alt="img" />
 													</Link>
 													<div className="content">
-														<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">de Machalí Machas...</Link></div>
+														<div className="h7 text-capitalize fw-7"><Link href="/property-details-v1" className="link">de ...</Link></div>
 														<ul className="meta-list">
 															<li className="item">
 																<span>Bed:</span>

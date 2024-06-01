@@ -43,7 +43,7 @@ export default function Property2() {
 							</Link>
 							<div className="content">
 								<div className="archive-top">
-									<div className="h7 text-capitalize fw-7"><Link href="#" className="link">Casa Lomas de Machalí
+									<div className="h7 text-capitalize fw-7"><Link href="#" className="link">The Erawan Condo Machalí
 										Machas</Link></div>
 									<div className="desc"><i className="icon icon-mapPin" />
 										<p>145 Brooklyn Ave, Califonia, New York</p>

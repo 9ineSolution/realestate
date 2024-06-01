@@ -1152,8 +1152,8 @@ export default function PropertyDetailsV1() {
 													</div>
 												</Link>
 												<div className="content">
-													<div className="h7 text-capitalize fw-7"><Link href="#" className="link"> Casa Lomas de Machalí Machas</Link></div>
-													<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+													<div className="h7 text-capitalize fw-7"><Link href="#" className="link"> The Erawan Condo </Link></div>
+													<div className="desc">ที่ตั้ง<i className="fs-16 icon icon-mapPin" /><p></p> </div>
 													<ul className="meta-list">
 														<li className="item">
 															<i className="icon icon-bed" />

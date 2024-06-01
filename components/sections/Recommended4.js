@@ -36,7 +36,7 @@ export default function Recommended4() {
 										</ul>
 									</div>
 									<div className="content">
-										<div className="title text-1 text-capitalize"><Link href="/property-details-v1" className="link text-white">Casa Lomas de Machalí Machas</Link></div>
+										<div className="title text-1 text-capitalize"><Link href="/property-details-v1" className="link text-white">The Erawan Condo </Link></div>
 										<div className="d-flex align-items-center price">
 											<div className="h7 fw-7 text-white">$7250,00</div>
 											<span className="text-white">/SqFT</span>
@@ -83,7 +83,7 @@ export default function Recommended4() {
 										</ul>
 									</div>
 									<div className="content">
-										<div className="title text-1 text-capitalize"><Link href="/property-details-v1" className="link text-white">Villa del Mar Retreat, Malibu</Link></div>
+										<div className="title text-1 text-capitalize"><Link href="/property-details-v1" className="link text-white">METROLUXE</Link></div>
 										<div className="d-flex align-items-center price">
 											<div className="h7 fw-7 text-white">$250,00</div>
 											<span className="text-white">/month</span>

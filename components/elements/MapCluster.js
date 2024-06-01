@@ -30,7 +30,7 @@ export default function MapCluster({topmap}) {
 									<div className="image-box"><img src="/images/home/house-7.jpg" alt /></div>
 									<div className="content">
 										<p className="location"><span className="icon icon-mapPin" />100 km from my location</p>
-										<div className="title"><a href="property-details-v1.html">Villa del Mar Retreat, Malibu...</a></div>
+										<div className="title"><a href="property-details-v1.html">METROLUXE...</a></div>
 										<ul className="list-info">
 											<li><span className="icon icon-bed" />3</li>
 											<li><span className="icon icon-bathtub" />2</li>
@@ -51,7 +51,7 @@ export default function MapCluster({topmap}) {
 									<div className="image-box"><img src="/images/home/house-7.jpg" alt /></div>
 									<div className="content">
 										<p className="location"><span className="icon icon-mapPin" />100 km from my location</p>
-										<div className="title"><a href="property-details-v1.html">Villa del Mar Retreat, Malibu...</a></div>
+										<div className="title"><a href="property-details-v1.html">METROLUXE...</a></div>
 										<ul className="list-info">
 											<li><span className="icon icon-bed" />3</li>
 											<li><span className="icon icon-bathtub" />2</li>
@@ -72,7 +72,7 @@ export default function MapCluster({topmap}) {
 									<div className="image-box"><img src="/images/home/house-7.jpg" alt /></div>
 									<div className="content">
 										<p className="location"><span className="icon icon-mapPin" />100 km from my location</p>
-										<div className="title"><a href="property-details-v1.html">Villa del Mar Retreat, Malibu...</a></div>
+										<div className="title"><a href="property-details-v1.html">METROLUXE...</a></div>
 										<ul className="list-info">
 											<li><span className="icon icon-bed" />3</li>
 											<li><span className="icon icon-bathtub" />2</li>

@@ -38,7 +38,7 @@ export default function Recommended6() {
 										</div>
 									</Link>
 									<div className="content">
-										<div className="text-1 text-capitalize"><Link href="/property-details-v1" className="link">Casa Lomas de Machalí</Link></div>
+										<div className="text-1 text-capitalize"><Link href="/property-details-v1" className="link">The Erawan Condo Machalí</Link></div>
 										<div className="desc"><i className="fs-16 icon icon-mapPin" />
 											<p>15 Willow Street, Seattle, WA</p>
 										</div>

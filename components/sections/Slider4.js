@@ -98,7 +98,7 @@ export default function Slider4() {
 										<Link href="#" className="flag-tag">For Sale</Link>
 									</div>
 									<h6 className="title"><Link href="#">Rancho Vista Verde, Santa Barbara</Link></h6>
-									<div className="desc"><i className="fs-16 icon icon-mapPin" /><p>33 Maple Street, San Francisco, California</p> </div>
+									<div className="desc"><i className="fs-16 icon icon-mapPin" /><p></p> </div>
 									<ul className="meta-list">
 										<li className="item">
 											<i className="icon icon-bed" />
