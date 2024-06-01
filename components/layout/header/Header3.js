@@ -18,7 +18,7 @@ export default function Header3({ scroll, isSidebar, handleSidebar, isMobileMenu
 							<div className="inner-container d-flex justify-content-between align-items-center">
 								{/* Logo Box */}
 								<div className="logo-box d-flex">
-									<div className="logo"><Link href="/"><img src="/images/logo/logo@2x.png" alt="logo" width={174} height={44} /></Link></div>
+									<div className="logo"><Link href="/"><img src="/images/logo/logo1@2x.png" alt="logo" width={174} height={44} /></Link></div>
 									<div className="button-show-hide" onClick={handleSidebar}>
 										<span className="icon icon-categories" />
 									</div>
@@ -64,7 +64,7 @@ export default function Header3({ scroll, isSidebar, handleSidebar, isMobileMenu
 				<div className="mobile-menu">
 					<div className="menu-backdrop" onClick={handleMobileMenu} />
 					<nav className="menu-box">
-						<div className="nav-logo"><Link href="/"><img src="/images/logo/logo@2x.png" alt="nav-logo" width={174} height={44} /></Link></div>
+						<div className="nav-logo"><Link href="/"><img src="/images/logo/logo1@2x.png" alt="nav-logo" width={174} height={44} /></Link></div>
 						<div className="bottom-canvas">
 							<MobileMenu />
 							<div className="button-mobi-sell">
